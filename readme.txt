@@ -39,7 +39,7 @@ Contact forms can be placed on pages using the `simple-contact-forms` shortcode 
 
 Example shortcode usage:
 ```
-	&#92;simple-contact-forms id="contact-us" recipients="bob@example.com,jane@example.com" subject="Sales|Support|Accounts" subject-prefix="Contact us from example.com:"&#93;
+	[simple-contact-forms id="contact-us" recipients="bob@example.com,jane@example.com" subject="Sales|Support|Accounts" subject-prefix="Contact us from example.com:"]
 ```
  
 This plugin is multisite compatible, with options set on a per site basis.
