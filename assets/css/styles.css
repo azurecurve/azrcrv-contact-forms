@@ -1,0 +1,30 @@
+div.azrcrv-cf-form{
+	width:80%;
+	max-width:550px;
+	margin:auto;
+}
+div.azrcrv-cf-error, div.azrcrv-cf-success{
+	width: 100%;
+	background-color: white;
+	color: black;
+	padding: 6px 6px 6px 12px;
+	margin-bottom: 6px;
+	border: 1px solid #6A6C6E;
+}
+div.azrcrv-cf-error{
+	border-left: 5px solid #FF0000;
+}
+div.azrcrv-cf-success{
+	border-left: 5px solid #008000;
+}
+p.azrcrv-cf-label{
+	font-weight: 900;
+	text-size: 1.25em;
+	margin-bottom: 0px;
+}
+p.azrcrv-cf-user-input{
+}
+input.azrcrv-cf-visible{
+	display: none;
+	visibility: hidden;
+}
