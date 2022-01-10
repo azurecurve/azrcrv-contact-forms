@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Forms\n"
+"POT-Creation-Date: 2021-12-27 17:06+0000\n"
+"PO-Revision-Date: 2021-12-27 17:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: translate@azurecurve.co.uk\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: azrcrv-contact-forms.php:123
+msgid "Your Name"
+msgstr ""
+
+#: azrcrv-contact-forms.php:124
+msgid "Your Email"
+msgstr ""
+
+#: azrcrv-contact-forms.php:125 azrcrv-contact-forms.php:334
+#: azrcrv-contact-forms.php:415
+msgid "Subject"
+msgstr ""
+
+#: azrcrv-contact-forms.php:126
+msgid "Your Message"
+msgstr ""
+
+#: azrcrv-contact-forms.php:128
+msgid "Thanks for your message, we&#8217;ll look into it as soon as we can."
+msgstr ""
+
+#: azrcrv-contact-forms.php:129
+msgid "Unfortunately, there was a problem and your mesage could not be sent."
+msgstr ""
+
+#: azrcrv-contact-forms.php:173
+msgid "Settings"
+msgstr ""
+
+#: azrcrv-contact-forms.php:213
+msgid "Contact Form Settings"
+msgstr ""
+
+#: azrcrv-contact-forms.php:214
+msgid "Contact Forms"
+msgstr ""
+
+#: azrcrv-contact-forms.php:239
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: azrcrv-contact-forms.php:262
+msgid "Settings have been saved."
+msgstr ""
+
+#: azrcrv-contact-forms.php:266
+msgid "Defaults"
+msgstr ""
+
+#: azrcrv-contact-forms.php:274
+msgid "From Email Address"
+msgstr ""
+
+#: azrcrv-contact-forms.php:280
+msgid ""
+"This will be used as the from email address; leave blank to use the senders "
+"email address."
+msgstr ""
+
+#: azrcrv-contact-forms.php:289
+msgid "From Email Name"
+msgstr ""
+
+#: azrcrv-contact-forms.php:295
+msgid ""
+"This will be used as the name for the from email name; leave blank to use "
+"the senders email name."
+msgstr ""
+
+#: azrcrv-contact-forms.php:304
+msgid "Recipients"
+msgstr ""
+
+#: azrcrv-contact-forms.php:310
+msgid ""
+"This will be used as the recipient email address (separate with commas to "
+"specify more than one recipient); leave blank to use the admin email address."
+msgstr ""
+
+#: azrcrv-contact-forms.php:319
+msgid "Subject Prefix"
+msgstr ""
+
+#: azrcrv-contact-forms.php:325
+#, php-format
+msgid ""
+"Prefix applied to every email subject; can be overridden using the %s "
+"parameter in the shortcode."
+msgstr ""
+
+#: azrcrv-contact-forms.php:340
+#, php-format
+msgid ""
+"This will be used as the subject; leave blank for free-form entry; for a "
+"drop down list, separate items with a %s (e.g. \"Sales|Support|Accounts & "
+"Billing\")."
+msgstr ""
+
+#: azrcrv-contact-forms.php:349
+msgid "Success"
+msgstr ""
+
+#: azrcrv-contact-forms.php:355
+msgid "Message to display to users for successfully sent message."
+msgstr ""
+
+#: azrcrv-contact-forms.php:364
+msgid "Failure"
+msgstr ""
+
+#: azrcrv-contact-forms.php:370
+msgid "Message to display to users for failed sent message."
+msgstr ""
+
+#: azrcrv-contact-forms.php:377
+msgid "Contact Form Labels"
+msgstr ""
+
+#: azrcrv-contact-forms.php:385
+msgid "Name"
+msgstr ""
+
+#: azrcrv-contact-forms.php:391
+msgid "Label for the \"Name\" field on the contact form."
+msgstr ""
+
+#: azrcrv-contact-forms.php:400
+msgid "Email"
+msgstr ""
+
+#: azrcrv-contact-forms.php:406
+msgid "Label for the \"Email\" field on the contact form."
+msgstr ""
+
+#: azrcrv-contact-forms.php:422
+msgid "Label for the \"Subject\" field on the contact form."
+msgstr ""
+
+#: azrcrv-contact-forms.php:430
+msgid "Message"
+msgstr ""
+
+#: azrcrv-contact-forms.php:436
+msgid "Label for the \"Message\" field on the contact form."
+msgstr ""
+
+#: azrcrv-contact-forms.php:462
+msgid "Save Settings"
+msgstr ""
+
+#: azrcrv-contact-forms.php:478
+msgid "You do not have permissions to perform this action"
+msgstr ""
+
+#: azrcrv-contact-forms.php:631
+msgid "Contact form cannot be displayed; an id must be provided."
+msgstr ""
+
+#: azrcrv-contact-forms.php:640
+msgid ""
+"Contact form cannot be displayed; at least one recipient must be provided."
+msgstr ""
+
+#: azrcrv-contact-forms.php:677
+msgid "Could not submit message due to an invalid nonce."
+msgstr ""
+
+#: azrcrv-contact-forms.php:680
+msgid "There was a problem processing your message."
+msgstr ""
+
+#: azrcrv-contact-forms.php:683
+msgid "Could not submit message as name cannot be blank."
+msgstr ""
+
+#: azrcrv-contact-forms.php:686
+msgid "Could not submit message as email cannot be blank."
+msgstr ""
+
+#: azrcrv-contact-forms.php:689
+msgid "Could not submit message as subject cannot be blank."
+msgstr ""
+
+#: azrcrv-contact-forms.php:692
+msgid "Could not submit as message cannot be blank."
+msgstr ""
+
+#: azrcrv-contact-forms.php:696
+msgid "Your message has been sent successfully."
+msgstr ""
+
+#: azrcrv-contact-forms.php:746
+msgid "Send"
+msgstr ""
+
+#: azrcrv-contact-forms.php:933
+msgid "From:"
+msgstr ""
+
+#: azrcrv-contact-forms.php:945
+msgid "Subject:"
+msgstr ""
+
+#: azrcrv-contact-forms.php:946
+msgid "Message:"
+msgstr ""
+
+#: azrcrv-contact-forms.php:955
+msgid "User IP:"
+msgstr ""
+
+#: azrcrv-contact-forms.php:957
+msgid "Sent from a contact form on"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:191
+msgid "Compatible up to:"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:192
+msgid "Reviews"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:193
+msgid "Read all reviews"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:383
+msgid "View details"
+msgstr ""
