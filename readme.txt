@@ -7,7 +7,7 @@ Author:			azurecurve
 Author URI:		https://development.azurecurve.co.uk/
 Contributors:	azurecurve
 Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/contact-forms/
-Download link:	https://github.com/azurecurve/azrcrv-redirect/releases/download/v1.0.1/azrcrv-contact-forms.zip
+Download link:	https://github.com/azurecurve/azrcrv-contact-forms/releases/download/v1.0.1/azrcrv-contact-forms.zip
 Donate link:	https://development.azurecurve.co.uk/support-development/
 Requires PHP:	5.6
 Requires:		1.0.0
