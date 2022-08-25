@@ -22,7 +22,7 @@
 namespace azurecurve\ContactForms;
 
 // EDIT: URL where Update Manager is installed; with trailing slash!
-const UPDATE_SERVER = 'https://software.gieffeedizioni.it/';
+const UPDATE_SERVER = 'https://update.development.azurecurve.co.uk/';
 
 // EDIT: Comment this out and fill with the first part of the url
 // of your Download link to make sure that updates
