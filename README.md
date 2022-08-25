@@ -1,39 +1,22 @@
-# [Contact Forms](https://development.azurecurve.co.uk/classicpress-plugins/contact-forms/)
+# [Xxxx](https://development.azurecurve.co.uk/classicpress-plugins/xxxx/)
 ![Plugin Banner](/assets/pluginimages/banner-1544x500.png)
 
 # Description
 
-A simple contact forms plugin with an options page allowing default settings to be configured; these settings can, in most cases, be overridden when adding a contact form to a page. This plugin supports the use of multiple contact forms on a page.
+.
 
-Contact forms can be placed on pages using the `simple-contact-form` shortcode which supports the following parameters:
- * **`id`** is the only mandatory parameter; a unique id for each contact form on the page must be supplied.
- * **`send-from-email`** allows the default send from email address to be overridden.
- * **`send-from-name`** allows the default send from email name to be overridden.
- * **`recipients`** allows the default recipients to be overridden.
- * **`label-name`** allows the default label for the name field to be overridden.
- * **label-email`** allows the default label for the email field to be overridden.
- * **`label-subject`** allows the default label for the subject field to be overridden.
- * **`label-message`** allows the default label for the message field to be overridden.
- * **`subject`** allows the default subject for the name field to be overridden. If an empty subject is provided, users can free form type a subject. Multiple subjects to allow picking from a drop down list can be supplied, separated with a `|`.
- * **`subject-prefix`** allows a subject prefix to be added to all subjects when the email is sent and override the default.
-
-Example shortcode usage:
-```
-	[simple-contact-form id="contact-us" recipients="bob@example.com,jane@example.com" subject="Sales|Support|Accounts" subject-prefix="Contact us from example.com:"]
-```
- 
-This plugin is multisite compatible, with options set on a per site basis.
+This plugin is multisite compatible; each site will need settings to be configured in the admin dashboard.
 
 # Installation Instructions
 
- * Download the latest release of the plugin from [GitHub](https://github.com/azurecurve/azrcrv-contact-forms/releases/latest/).
+ * Download the latest release of the plugin from [GitHub](https://github.com/azurecurve/azrcrv-xxxx/releases/latest/).
  * Upload the entire zip file using the Plugins upload function in your ClassicPress admin panel.
  * Activate the plugin.
  * Configure relevant settings via the configuration page in the admin control panel (azurecurve menu).
+ 
+ # About azurecurve
 
-# About azurecurve
-
-**azurecurve** was one of the first plugin developers to start developing for ClassicPress; all plugins are available from [azurecurve Development](https://development.azurecurve.co.uk/) and are integrated with the [Update Manager plugin](https://directory.classicpress.net/plugins/update-manager) for fully integrated, no hassle, updates.
+**azurecurve** was one of the first plugin developers to start developing for Classicpress; all plugins are available from [azurecurve Development](https://development.azurecurve.co.uk/) and are integrated with the [Update Manager plugin](https://directory.classicpress.net/plugins/update-manager) for fully integrated, no hassle, updates.
 
 The other plugins available from **azurecurve** are:
  * Add Open Graph Tags - [details](https://development.azurecurve.co.uk/classicpress-plugins/add-open-graph-tags/) / [download](https://github.com/azurecurve/azrcrv-add-open-graph-tags/releases/latest/)
@@ -46,6 +29,7 @@ The other plugins available from **azurecurve** are:
  * Code - [details](https://development.azurecurve.co.uk/classicpress-plugins/code/) / [download](https://github.com/azurecurve/azrcrv-code/releases/latest/)
  * Comment Validator - [details](https://development.azurecurve.co.uk/classicpress-plugins/comment-validator/) / [download](https://github.com/azurecurve/azrcrv-comment-validator/releases/latest/)
  * Conditional Links - [details](https://development.azurecurve.co.uk/classicpress-plugins/conditional-links/) / [download](https://github.com/azurecurve/azrcrv-conditional-links/releases/latest/)
+ * Contact Forms - [details](https://development.azurecurve.co.uk/classicpress-plugins/contact-forms/) / [download](https://github.com/azurecurve/azrcrv-contact-forms/releases/latest/)
  * Disable FLoC - [details](https://development.azurecurve.co.uk/classicpress-plugins/disable-floc/) / [download](https://github.com/azurecurve/azrcrv-disable-floc/releases/latest/)
  * Display After Post Content - [details](https://development.azurecurve.co.uk/classicpress-plugins/display-after-post-content/) / [download](https://github.com/azurecurve/azrcrv-display-after-post-content/releases/latest/)
  * Estimated Read Time - [details](https://development.azurecurve.co.uk/classicpress-plugins/estimated-read-time/) / [download](https://github.com/azurecurve/azrcrv-estimated-read-time/releases/latest/)

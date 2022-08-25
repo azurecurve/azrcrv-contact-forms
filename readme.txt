@@ -1,25 +1,26 @@
 === Contact Forms ===
 
 Description:	Create simple contact forms using the simple contact-form shortcode; supports multiple contact forms on a page.
-Version:		1.0.1
-Tags:			contact form
+Version:		2.0.0
+Tags:			
 Author:			azurecurve
 Author URI:		https://development.azurecurve.co.uk/
-Contributors:	azurecurve
 Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/contact-forms/
-Download link:	https://github.com/azurecurve/azrcrv-contact-forms/releases/download/v1.0.1/azrcrv-contact-forms.zip
+Download link:	https://github.com/azurecurve/azrcrv-contact-forms/releases/download/v1.0.0/azrcrv-contact-forms.zip
 Donate link:	https://development.azurecurve.co.uk/support-development/
 Requires PHP:	5.6
 Requires:		1.0.0
 Tested:			4.9.99
 Text Domain:	azrcrv-cf
-Domain Path:	/languages
+Domain Path:	/assets/languages
 License: 		GPLv2 or later
 License URI: 	http://www.gnu.org/licenses/gpl-2.0.html
 
-Create simple contact forms using the simple contact-form shortcode; supports multiple contact forms on a page.
+Create simple contact forms using the simple-contact-form shortcode; supports multiple contact forms on a page.
 
 == Description ==
+
+
 
 # Description
 
@@ -58,7 +59,7 @@ This plugin is multisite compatible, with options set on a per site basis.
 # Frequently Asked Questions
 
 ### Can I translate this plugin?
-Yes, the .pot file is in the plugins languages folder and can also be downloaded from the plugin page on https://development.azurecurve.co.uk; if you do translate this plugin, please sent the .po and .mo files to translations@azurecurve.co.uk for inclusion in the next version (full credit will be given).
+Yes, the .pot file is in the plugins languages folder; if you do translate this plugin, please sent the .po and .mo files to translations@azurecurve.co.uk for inclusion in the next version (full credit will be given).
 
 ### Is this plugin compatible with both WordPress and ClassicPress?
 This plugin is developed for ClassicPress, but will likely work on WordPress.
@@ -66,6 +67,11 @@ This plugin is developed for ClassicPress, but will likely work on WordPress.
 == Changelog ==
 
 # Changelog
+
+### [Version 2.0.0](https://github.com/azurecurve/azrcrv-contact-forms/releases/tag/v2.0.0)
+ * Refactor code to improve maintainability, to use a namespace and improve security.
+ * Update language template.
+ * Update Update Manager to version 2.4.3.
 
 ### [Version 1.0.1](https://github.com/azurecurve/azrcrv-contact-forms/releases/tag/v1.0.1)
  * Update readme files.
@@ -79,7 +85,7 @@ This plugin is developed for ClassicPress, but will likely work on WordPress.
 
 # About azurecurve
 
-**azurecurve** was one of the first plugin developers to start developing for ClassicPress; all plugins are available from [azurecurve Development](https://development.azurecurve.co.uk/) and are integrated with the [Update Manager plugin](https://directory.classicpress.net/plugins/update-manager) for fully integrated, no hassle, updates.
+**azurecurve** was one of the first plugin developers to start developing for Classicpress; all plugins are available from [azurecurve Development](https://development.azurecurve.co.uk/) and are integrated with the [Update Manager plugin](https://directory.classicpress.net/plugins/update-manager) for fully integrated, no hassle, updates.
 
 The other plugins available from **azurecurve** are:
  * Add Open Graph Tags - [details](https://development.azurecurve.co.uk/classicpress-plugins/add-open-graph-tags/) / [download](https://github.com/azurecurve/azrcrv-add-open-graph-tags/releases/latest/)
@@ -92,6 +98,7 @@ The other plugins available from **azurecurve** are:
  * Code - [details](https://development.azurecurve.co.uk/classicpress-plugins/code/) / [download](https://github.com/azurecurve/azrcrv-code/releases/latest/)
  * Comment Validator - [details](https://development.azurecurve.co.uk/classicpress-plugins/comment-validator/) / [download](https://github.com/azurecurve/azrcrv-comment-validator/releases/latest/)
  * Conditional Links - [details](https://development.azurecurve.co.uk/classicpress-plugins/conditional-links/) / [download](https://github.com/azurecurve/azrcrv-conditional-links/releases/latest/)
+ * Contact Forms - [details](https://development.azurecurve.co.uk/classicpress-plugins/contact-forms/) / [download](https://github.com/azurecurve/azrcrv-contact-forms/releases/latest/)
  * Disable FLoC - [details](https://development.azurecurve.co.uk/classicpress-plugins/disable-floc/) / [download](https://github.com/azurecurve/azrcrv-disable-floc/releases/latest/)
  * Display After Post Content - [details](https://development.azurecurve.co.uk/classicpress-plugins/display-after-post-content/) / [download](https://github.com/azurecurve/azrcrv-display-after-post-content/releases/latest/)
  * Estimated Read Time - [details](https://development.azurecurve.co.uk/classicpress-plugins/estimated-read-time/) / [download](https://github.com/azurecurve/azrcrv-estimated-read-time/releases/latest/)
@@ -136,3 +143,4 @@ The other plugins available from **azurecurve** are:
  * URL Shortener - [details](https://development.azurecurve.co.uk/classicpress-plugins/url-shortener/) / [download](https://github.com/azurecurve/azrcrv-url-shortener/releases/latest/)
  * Username Protection - [details](https://development.azurecurve.co.uk/classicpress-plugins/username-protection/) / [download](https://github.com/azurecurve/azrcrv-username-protection/releases/latest/)
  * Widget Announcements - [details](https://development.azurecurve.co.uk/classicpress-plugins/widget-announcements/) / [download](https://github.com/azurecurve/azrcrv-widget-announcements/releases/latest/)
+ 
