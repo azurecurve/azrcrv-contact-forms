@@ -20,8 +20,6 @@ Create simple contact forms using the simple-contact-form shortcode; supports mu
 
 == Description ==
 
-
-
 # Description
 
 A simple contact forms plugin with an options page allowing default settings to be configured; these settings can, in most cases, be overridden when adding a contact form to a page. This plugin supports the use of multiple contact forms on a page.
