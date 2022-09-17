@@ -1,12 +1,12 @@
 === Contact Forms ===
 
 Description:	Create simple contact forms using the simple contact-form shortcode; supports multiple contact forms on a page.
-Version:		2.0.1
+Version:		2.0.2
 Tags:			contact form
 Author:			azurecurve
 Author URI:		https://development.azurecurve.co.uk/
 Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/contact-forms/
-Download link:	https://github.com/azurecurve/azrcrv-contact-forms/releases/download/v2.0.1/azrcrv-contact-forms.zip
+Download link:	https://github.com/azurecurve/azrcrv-contact-forms/releases/download/v2.0.2/azrcrv-contact-forms.zip
 Donate link:	https://development.azurecurve.co.uk/support-development/
 Requires PHP:	5.6
 Requires:		1.0.0
@@ -65,6 +65,9 @@ This plugin is developed for ClassicPress, but will likely work on WordPress.
 == Changelog ==
 
 # Changelog
+
+### [Version 2.0.2](https://github.com/azurecurve/azrcrv-contact-forms/releases/tag/v2.0.2)
+ * Fix Update Manager View Details link (contributed by xxsimoxx).
 
 ### [Version 2.0.1](https://github.com/azurecurve/azrcrv-contact-forms/releases/tag/v2.0.1)
  * Fix version number bug.
