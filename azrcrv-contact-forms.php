@@ -2,8 +2,8 @@
 /**
  * ------------------------------------------------------------------------------
  * Plugin Name: Contact Forms
- * Description: .
- * Version: 2.0.2
+ * Description: Create simple contact forms using the simple contact-form shortcode; supports multiple contact forms on a page.
+ * Version: 2.0.3
  * Author: azurecurve
  * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
  * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/contact-forms/
