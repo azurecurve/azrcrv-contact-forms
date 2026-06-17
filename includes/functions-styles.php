@@ -71,7 +71,7 @@ function check_for_shortcode( $posts ) {
 	}
 
 	if ( $found ) {
-		// as shortcode found call functions to load css and jquery.
+		// as shortcode found call functions to load css and js.
 		enqueue_frontend_styles();
 	}
 	return $posts;
